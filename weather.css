@@ -70,12 +70,12 @@ input:focus{
     height: 420px;
     
  }.today{
-    text-align: left;
+    /* text-align: left; */
     padding: 10px 0;
     color: crimson;
  }
  .cloud2{
-    text-align: left;
+    /* text-align: left; */
     padding: 0 20px;
  }.col-lg-12 h4 span{
     text-align: center;
@@ -119,6 +119,6 @@ input:focus{
     font-weight: 500px;
  }.feels{
     color: white;
-    text-align: end;
+    
     font-size: 1.5rem;
  }
